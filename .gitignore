@@ -1,0 +1,6 @@
+*.pyc
+*.pyc
+/logs
+/src/utilities/ball_machine/__pycache__
+/.idea
+/logs
